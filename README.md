@@ -23,6 +23,4 @@ claude plugin install abdul-manan-tutor --marketplace abdulmanankhalid/abdul-man
 
 In the desktop app: click **+** next to the prompt box, then **Plugins**, **Add marketplace** with `abdulmanankhalid/abdul-manan-tutor`, then **Add plugin**.
 
-This repository is private. It installs only for people who can read it on GitHub and whose computer already has a GitHub login for git (an SSH key, or `gh auth login` then `gh auth setup-git`).
-
 The first time you use the tutor, Claude asks you to sign in to Zia Tutor AI in your browser.
