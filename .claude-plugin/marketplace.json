@@ -1,0 +1,6 @@
+{
+  "name": "abdul-manan-tutor",
+  "owner": { "name": "Abdul Manan Khalid" },
+  "description": "Zia Tutor AI plugin for The AI Agent Factory course",
+  "plugins": [{ "name": "abdul-manan-tutor", "source": "./" }]
+}
